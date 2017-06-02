@@ -1,0 +1,1 @@
+I studied some basic vim tutorials in the insert and normal mode. Created a github account. Installed git in ubuntu. Learned about how to create commit git repository both in site and by codes. And started chapter 2 of the python tutorial.
