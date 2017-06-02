@@ -1,0 +1,2 @@
+Done reading the commands as given in the instruction page. Familiarized with commands pwd,ls,cd,mkdir,cat etc. Downloaded and loopback mounted iso file.
+watched and done the exercises in the video rl100/vim/vim.mp4. Installed ctags which give fast searching between functions and original file. 
