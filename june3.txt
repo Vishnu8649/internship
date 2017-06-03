@@ -1,0 +1,4 @@
+Revised through some of the vim commands.
+watched videos in folder cmdline and learned how to create files through command line and use some basic commands.
+watched videos grep.mp4, ln.mp4 and mount.mp4.
+learned how to use commands grep, sed, ln, dd, xargs, touch and mount/unmount.
