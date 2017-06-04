@@ -1,0 +1,9 @@
+revised through some commands studied like grub, sed, touch, ln etc.
+
+Watched remaining videos in permissi.mp4, process.mp4, tar.mp4 and studied the commands like chmod, yes, kill, top, free, ls  and how to archive and compress files.
+
+ watched video dirctor.mp4 and got an idea about the dirctories like bin, boot, sbin, usr, etc, home and lib.
+ 
+ The video compile.mp4 is gives the idea how the c compilation takes place through 4 phase process to create a.out file.
+ 
+ watched video gdb.mp4 since I have a previous idea about gdb it was not that difficult and learned commands like break, next, step, bt and run. 
