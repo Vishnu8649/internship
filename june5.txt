@@ -1,0 +1,9 @@
+Revised some commands studied previous day.
+
+watched video shellbas.mp4 and familiarized with some commands like who, bash, printenv etc.
+
+ Downloaded and untared git.tgz and worked out commands in git1.pdf
+ 
+ watched videos gitbasic.mp4 and videos in folder github.mp4 and learned some basic ideas about how config, add, commit, branch, push  commands work.
+ 
+ started book to learn python commands and worked out upto 2.9
