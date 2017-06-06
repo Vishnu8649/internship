@@ -1,0 +1,5 @@
+Revised some commands learned in previous days.
+
+Gone through chapter 3 of python tutorial.learned how functions work and the ways of defining a function.
+
+Since chapter4 was a case study chapter I skiped it. And The chapter 5 was of dealing with the logical, boolean, if-else conditionals etc. stoped at section 5.7.  
