@@ -1,0 +1,10 @@
+completed chapter 5 by studying recursive functions and done some exercises.
+
+logged in to new remote system uding ssh command as per the
+
+found the questions for the exercise and created a directory.
+
+Done most of the questions some of the difficult ones are pending.
+
+
+
