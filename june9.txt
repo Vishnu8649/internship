@@ -1,0 +1,4 @@
+completed commandline exercises.
+
+learnt about more commands and directories like ifconfig, vmstat,grep , network directory .
+
