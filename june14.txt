@@ -1,0 +1,7 @@
+learned some commands in tmux like switching window pan etc
+
+tmux is an amazing tool that with more options and i find it more interesting
+
+tried to explore some commandline exercises
+
+
