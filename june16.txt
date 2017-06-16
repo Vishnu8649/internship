@@ -1,0 +1,7 @@
+Done siple exercises in chapter 6,7and 8
+
+Pushed all programs to Think python repository
+
+Skiped chapter 9 since it was acase study chapter
+
+Studied chapter 10 upto section 10.10
