@@ -1,0 +1,6 @@
+Tried to modify the source code of python. But that was not success
+
+Started the google python class
+
+watched first video found how to add arguments at the time of compilation
+
