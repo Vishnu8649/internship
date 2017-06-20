@@ -1,0 +1,7 @@
+Learned about dictionaries and files more
+
+Studied how to create directory using lists
+
+Done program wordcount.py in the google python exercises
+
+Doing the problem mimic.py I found it a little bit tough so taking time to solvei hope i can finish it soon.
