@@ -1,0 +1,7 @@
+Almost finished the mimic.py program it was a tricky one but managed anyway
+
+learned lot more about dictionaries and random modulue that helps choosing random elements
+
+watched video regular expressions had an idea how to use regular expressions
+
+exercises are pending hope i can finish it by tomorrow
