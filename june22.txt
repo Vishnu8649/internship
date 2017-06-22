@@ -1,0 +1,9 @@
+Watched the Day2-part2 video of the google python class
+
+Learned a littlle bit about utilities like how to use commands, os modules etc
+
+Done babynames.py It was an easier one but little bit tricky also anyway  completed it
+
+Watched the talk about Nand2tetris self learning by Shimon Schocken such an inspiring talk.
+
+
