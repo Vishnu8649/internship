@@ -1,0 +1,8 @@
+It was a short day for me there was only the last few hrs if the day to work but it was fun today.
+
+Since the last week exercises are provided i'm kind of excited by now and i got something i think that will be usefull for it from the google python class day2 part3
+
+The exercise copyspecial.py was completed successfully and uploaded to the github directory
+
+The video day2 part3 is an superb one i think it will be fun to work with the url module the last exercise is pending hope i can finish it tomorrow and start working with the project
+
