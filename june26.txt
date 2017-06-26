@@ -1,0 +1,9 @@
+Completed logpuzzle.py with the corrected url and exttended code for the part 2 of the problem.
+
+The socket programming with python has been started trying some basic programs
+
+Browsing for some good lectures on the socket programming.
+
+Have an idea about how the client side and server side works.
+
+
