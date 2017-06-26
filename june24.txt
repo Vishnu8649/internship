@@ -1,4 +1,4 @@
-Corrected the mimic.py with the sufficient changes
+Corrected the mimic.py with the sufficient changes.
 
 Created accounts in the online courses and just browsed what are the classes of and etc.
 
