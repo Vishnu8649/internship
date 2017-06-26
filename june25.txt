@@ -1,0 +1,5 @@
+The logpuzzle.py problem was solved successfully since there was an error regarding the url the output was not obtained
+
+Started to study socket programming in python for the project 
+
+
