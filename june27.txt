@@ -1,0 +1,5 @@
+Socket programming with the host online has been figured out but still have some doubts about that
+
+Some of the urls are tried to use the GET command as the request to server and recieve data return from the server
+
+Triying to findout more regarding this
