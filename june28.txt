@@ -1,0 +1,7 @@
+Done some research on socket programming but because of insufficient information
+ i decided to move to the alternate project pygame
+
+installed pygame module and started with basic hello world example
+
+it is a good module to work with the GUI
+
