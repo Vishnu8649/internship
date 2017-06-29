@@ -1,0 +1,5 @@
+Socket programming when requesting the url an 302 error is produced not exactly the site data is got
+
+Inorder to get actual data this GET request needs some headers searcing to find those headers tried some of them like user agent, host etc 
+
+There are no exact programs found these are a challenging task im trying my best
