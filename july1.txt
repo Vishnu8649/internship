@@ -1,0 +1,3 @@
+Finished the project 
+
+Started online course on Erlang watching introduction videos
