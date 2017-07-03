@@ -1,0 +1,3 @@
+Completed almost half of the first week of the erlang tutorials
+
+Done the first program and uploaded into git account
